@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, meu nome é Willian! Seja Bem-Vindo!👋
 
-<!--
-**willianrizzo/willianrizzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+ <br>
+<div align="center">
+  <a href="https://github.com/rafaelmachadobr/">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=willianrizzo&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
+  <br>
+   <br>
+   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=willianrizzo&theme=dracula&hide_border=false"/>
+    <br>
+     <br>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
