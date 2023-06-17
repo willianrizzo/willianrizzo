@@ -16,7 +16,7 @@
 
 
 ### Sobre: 
- Olá! Seja bem-vindo ao meu perfil! Meu nome é Willian, tenho 19 anos e sou estudante de programação web e meu sonho é ser FullStack! Desde crinça sempre me interessei pela tecnologia e estar trabalhando com algo que eu amo é uma sensação incrível!
+ Olá! Seja bem-vindo ao meu perfil! Meu nome é Willian, tenho 19 anos e sou estudante de programação web e meu sonho é ser FullStack! Desde crinça sempre me interessei pela tecnologia e estar trabalhando com algo que eu amo é uma sensação incrível! Estou constantemente aprimorando minhas habilidades e conhecimentos para me tornar um profissional completo. Estou animado para explorar novas tecnologias, enfrentar desafios e construir soluções inovadoras. Vamos juntos nessa jornada empolgante da programação!
 
 ### Contatos:
  
