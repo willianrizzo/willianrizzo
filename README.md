@@ -1,41 +1,59 @@
-<h1 align=center> Olá, meu nome é Willian! Seja Bem-Vindo!👋 </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4316b8&height=120&section=header&"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h3 align="left"> 
+ Hello World! My name is Willian, Welcome to my profile!
+</h3>
 
-<br>
- <br>
-<div align="center">
-  <a href="https://github.com/willianrizzo/">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=willianrizzo&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/>
-  <br>
-   <br>
-   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=willianrizzo&theme=dracula&hide_border=false"/>
-    <br>
-     <br>
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</div>
- 
+<ul>
+ <li>   Brazillian Studant 🇧🇷</li>
+ <li>🎂 19 Years</li>
+ <li>👨‍💻 He/Him</li>
 
+</ul> </p>
 
-### Sobre: 
- Olá! Seja bem-vindo ao meu perfil! Meu nome é Willian, tenho 19 anos e sou estudante de programação web e meu sonho é ser FullStack! Desde crinça sempre me interessei pela tecnologia e estar trabalhando com algo que eu amo é uma sensação incrível! Estou constantemente aprimorando minhas habilidades e conhecimentos para me tornar um profissional completo. Estou animado para explorar novas tecnologias, enfrentar desafios e construir soluções inovadoras. Vamos juntos nessa jornada empolgante da programação!
-
-### Contatos:
- 
- <a href="https://www.linkedin.com/in/willian-rizzo-ratão/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
- 
- <a href="mailto:willianrizzoratao10@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-### Habilidades:
- 
-<div style="display: inline_block">
+<br/>
+<p align="left">
+  💻 Language: <strong><div style="display: inline_block"">
   <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"></strong>
+</p>
+
+<p align="left">
+ 💼 Work Tools: <strong>Trello | VSCode | Photoshop </strong>
+</p>
+
+<p align="left">
+  
+📨 Contact me here: ⤵️
+</p>
+
+<p align="left">
+  
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianrizzo/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/+5511986279996"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wiurizzo/"/></a>
+</p>  
+
+<br/>
+<br/>
+
+<div style="display: flex;>
+  
+  <a href="https://github.com/willianrizzo/">
+  <img width="380em" src="https://github-readme-stats.vercel.app/api?username=willianrizzo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" style="vertical-align: top;"/>
+  <img width="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4316b8&height=120&section=footer"/>
+
  
