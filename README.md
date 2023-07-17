@@ -5,7 +5,7 @@
 </h3>
 
 <ul>
- <li>   Brazillian Studant 🇧🇷</li>
+ <li>   Brazillian Student 🇧🇷</li>
  <li>🎂 19 Years</li>
  <li>👨‍💻 He/Him</li>
 
