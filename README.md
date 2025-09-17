@@ -51,7 +51,7 @@
 <div style="display: flex;>
   
   <a href="https://github.com/willianrizzo/">
-  <img width="380em" src="https://github-readme-stats.vercel.app/api?username=willianrizzo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" style="vertical-align: top;"/>
+<!--   <img width="380em" src="https://github-readme-stats.vercel.app/api?username=willianrizzo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" style="vertical-align: top;"/> -->
   <img width="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
 </div>
