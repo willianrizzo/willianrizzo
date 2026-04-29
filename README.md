@@ -91,10 +91,10 @@
 <div align="left">
   <a href="https://github.com/willianrizzo/">
     <img 
-      width="300em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" 
-      alt="Top languages"
-    />
+  width="300em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=nightowl&hide_border=false&layout=compact&langs_count=6&hide=html,css,scss" 
+  alt="Top languages"
+/>
   </a>
 </div>
 
