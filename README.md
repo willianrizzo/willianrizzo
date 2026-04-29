@@ -1,61 +1,103 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4316b8&height=120&section=header&"/>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<h3 align="left"> 
- Hello World! <br/> My name is Willian, Welcome to my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4316b8&height=120&section=header" />
+
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+  min-width="400px" 
+  max-width="400px" 
+  width="400px" 
+  align="right" 
+  alt="Computer illustration"
+/>
+
+<h3 align="left">
+  Hello World! <br />
+  My name is Willian, welcome to my profile!
 </h3>
 
 <ul>
- <li>   Brazilian Student 🇧🇷</li>
- <li>🎂 22 Years</li>
- <li>👨‍💻 He/Him</li>
+  <li>Brazilian Student 🇧🇷</li>
+  <li>🎂 22 Years</li>
+  <li>👨‍💻 He/Him</li>
+</ul>
 
-</ul> </p>
+<br />
 
-<br/>
 <p align="left">
-  💻 Languages and Frameworks: <strong><div style="display: inline_block"">
-  <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30">
-  <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"></strong>
-  <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" ></strong>
-  <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30" /></strong>
-         
+  💻 Languages, Frameworks and Tools:
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="50">
+      <img alt="JavaScript" title="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="TypeScript" title="TypeScript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="SQL" title="SQL" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="React" title="React" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="Next.js" title="Next.js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="NestJS" title="NestJS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="Java" title="Java" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="Python" title="Python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="AWS" title="AWS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="Docker" title="Docker" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    </td>
+    <td align="center" width="50">
+      <img alt="n8n" title="n8n" height="32" width="32" src="https://cdn.simpleicons.org/n8n/EA4B71" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="left">
+  💼 Work Tools: <strong>Trello | VSCode | Photoshop</strong>
 </p>
 
 <p align="left">
- 💼 Work Tools: <strong>Trello | VSCode | Photoshop </strong>
+  📨 Contact me here:
 </p>
 
 <p align="left">
-  
-📨 Contact me here: ⤵️
+  <a href="https://www.linkedin.com/in/willianrizzo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5511918771003" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.instagram.com/wiurizzo/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/willianrizzo/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianrizzo/" /></a>
+<br />
 
-  <a href="https://wa.me/+5511918771003" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/+5511986279996"/></a>
-
-  <a href="https://www.instagram.com/wiurizzo/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wiurizzo/"/></a>
-</p>  
-
-<br/>
-<br/>
-
-<div style="display: flex;>
-  
+<div align="left">
   <a href="https://github.com/willianrizzo/">
-<!--   <img width="380em" src="https://github-readme-stats.vercel.app/api?username=willianrizzo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" style="vertical-align: top;"/> -->
-  <img width="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-
+    <img 
+      width="300em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" 
+      alt="Top languages"
+    />
+  </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4316b8&height=120&section=footer"/>
+<br />
 
- 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4316b8&height=120&section=footer" />
