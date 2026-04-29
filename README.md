@@ -26,40 +26,45 @@
   💻 Languages, Frameworks and Tools:
 </p>
 
-<table>
+<table cellpadding="3" cellspacing="0">
   <tr>
-    <td align="center" width="50">
-      <img alt="JavaScript" title="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <td align="center" width="44">
+      <img alt="JavaScript" title="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="TypeScript" title="TypeScript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+    <td align="center" width="44">
+      <img alt="TypeScript" title="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="SQL" title="SQL" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <td align="center" width="44">
+      <img alt="SQL" title="SQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="React" title="React" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <td align="center" width="44">
+      <img alt="React" title="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="Next.js" title="Next.js" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <td align="center" width="44">
+      <img alt="Next.js" title="Next.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="NestJS" title="NestJS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+    <td align="center" width="44">
+      <img alt="NestJS" title="NestJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="Java" title="Java" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  </tr>
+  <tr>
+    <td align="center" width="44">
+      <img alt="Java" title="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="Python" title="Python" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <td align="center" width="44">
+      <img alt="Python" title="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="AWS" title="AWS" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <td align="center" width="44">
+      <img alt="AWS" title="AWS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="Docker" title="Docker" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <td align="center" width="44">
+      <img alt="Docker" title="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     </td>
-    <td align="center" width="50">
-      <img alt="n8n" title="n8n" height="32" width="32" src="https://cdn.simpleicons.org/n8n/EA4B71" />
+    <td align="center" width="44">
+      <img alt="n8n" title="n8n" height="30" width="30" src="https://cdn.simpleicons.org/n8n/EA4B71" />
+    </td>
+    <td align="center" width="44">
+      <img alt="Django" title="Django" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     </td>
   </tr>
 </table>
@@ -67,8 +72,36 @@
 <br />
 
 <p align="left">
-  💼 Work Tools: <strong>Trello | VSCode | Photoshop</strong>
+  🛠️ Coding Tools:
 </p>
+
+<table cellpadding="3" cellspacing="0">
+  <tr>
+    <td align="center" width="44">
+      <img alt="VS Code" title="VS Code" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    </td>
+    <td align="center" width="44">
+      <img alt="Git" title="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    </td>
+    <td align="center" width="44">
+      <img 
+        alt="Claude Code" 
+        title="Claude Code" 
+        height="30" 
+        width="30" 
+        src="https://cdn.simpleicons.org/anthropic/D97757" 
+      />
+    </td>
+    <td align="center" width="44">
+      <img alt="Postman" title="Postman" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+    </td>
+    <td align="center" width="44">
+      <img alt="Docker" title="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <p align="left">
   📨 Contact me here:
