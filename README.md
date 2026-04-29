@@ -91,10 +91,18 @@
 <div align="left">
   <a href="https://github.com/willianrizzo/">
     <img 
-  width="300em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=nightowl&hide_border=false&layout=compact&langs_count=6&hide=html,css,scss" 
-  alt="Top languages"
-/>
+      height="165em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=nightowl&hide_border=false&layout=compact&langs_count=6&hide=html,css,scss" 
+      alt="Top languages"
+    />
+  </a>
+
+  <a href="https://github.com/willianrizzo/">
+    <img 
+      height="165em"
+      src="https://github-readme-stats.vercel.app/api?username=willianrizzo&theme=nightowl&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" 
+      alt="GitHub stats"
+    />
   </a>
 </div>
 
