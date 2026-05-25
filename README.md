@@ -122,21 +122,10 @@
 <br />
 
 <div align="left">
-  <a href="https://github.com/willianrizzo/">
-    <img 
-      height="165em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrizzo&theme=nightowl&hide_border=false&layout=compact&langs_count=6&hide=html,css,scss" 
-      alt="Top languages"
-    />
-  </a>
-
-  <a href="https://github.com/willianrizzo/">
-    <img 
-      height="165em"
-      src="https://github-readme-stats.vercel.app/api?username=willianrizzo&theme=nightowl&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" 
-      alt="GitHub stats"
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D4EDD&width=520&lines=console.log(%22Hello,+World!%22);Building+cool+things...;Code,+coffee+and+bugs+%F0%9F%90%9B;Always+learning+%F0%9F%9A%80" 
+    alt="Typing SVG" 
+  />
 </div>
 
 <br />
