@@ -55,7 +55,7 @@
       <img alt="Python" title="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     </td>
     <td align="center" width="44">
-      <img alt="AWS" title="AWS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+      <img alt="AWS" title="AWS" height="30" width="30" src="https://skillicons.dev/icons?i=aws" />
     </td>
     <td align="center" width="44">
       <img alt="Docker" title="Docker" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
